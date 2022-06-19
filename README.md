@@ -1,3 +1,3 @@
 # Take a seat
 
-Project for the bachelor's degree for UVT
+Project for the bachelor thesis UVT
